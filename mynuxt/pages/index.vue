@@ -10,6 +10,7 @@
       </h2>
       <div class="links">
          <nuxt-link  to="/posts" >all posts</nuxt-link>
+         <nuxt-link  to="/products" >shop and products</nuxt-link>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
